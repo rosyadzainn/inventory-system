@@ -1,4 +1,4 @@
-📦 Inventory Management System</h1>
+<h1 align="center">📦 Inventory Management System</h1>
 
 <p align="center">
 Simple web-based system to manage inventory data using JavaScript.
@@ -7,23 +7,23 @@ Simple web-based system to manage inventory data using JavaScript.
 ---
 
 ## 🚀 Features
-- Add items
-- Edit items
-- Delete items
-- Search items
-- Data stored using LocalStorage
+- Add items  
+- Edit items  
+- Delete items  
+- Search items  
+- Data stored using LocalStorage  
 
 ---
 
 ## 🛠 Tech Stack
-- HTML
-- CSS
-- JavaScript
+- HTML  
+- CSS  
+- JavaScript  
 
 ---
 
-## 📸 Preview
-![Preview](https://rosyadzainn.github.io/inventory-system/)
+## 🔗 Live Demo
+👉 https://rosyadzainn.github.io/inventory-system/
 
 ---
 
